@@ -1,0 +1,60 @@
+.Container__Projeto {
+    margin-top: 40px;
+    font-size: 1.1rem;
+    font-weight: 400;
+}
+
+.Container__Projeto1 {
+    box-sizing: border-box;
+
+    width: 262px;
+    height: 126px;
+
+
+    background: rgba(78, 76, 76, 0.16);
+    border: 1px solid #313131;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+
+    padding: 0.8rem 0.8rem;
+    margin-bottom: 20px;
+    margin-top: 25px;
+}
+
+.Container__Projeto1:hover {
+    border-color: rgba(240, 248, 255, 0.264);
+}
+
+.titulo__Projeto {
+    font-size: 1rem;
+    margin-bottom: 10px;
+
+    background: linear-gradient(269.94deg, #28A8A4 38.74%, #00FF85 107.71%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+
+.descricao__projeto {
+    color: #ffff;
+}
+
+.link1 {
+    text-decoration: none;
+}
+
+@media screen and (min-width: 768px) {
+    .Container__Projeto1 {
+        width: 320px;
+        height: 126px;
+    }
+}
+
+
+@media screen and (min-width: 1024px) {
+    .Container__Projeto1 {
+        display: inline-flex;
+        margin-left: 12px;
+    }
+
+}
