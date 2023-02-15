@@ -14,8 +14,7 @@ const Projeto = () => {
 
             <div className='Container__Projeto1'>
                 <a className='link1' href='#'>
-                    <h1 className='titulo__Projeto'>#
-                        financial control</h1>
+                    <h1 className='titulo__Projeto'>#financial control</h1>
                     <p className='descricao__projeto'>
                         Design of a personal finance control system.</p>
                 </a>

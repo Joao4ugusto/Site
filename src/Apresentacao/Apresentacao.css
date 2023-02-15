@@ -1,6 +1,6 @@
 .Container__Titulo {
     font-size: 2.3rem;
-    margin-top: 8rem;
+    margin-top: 10rem;
     margin-bottom: 30px;
 
     background: linear-gradient(269.94deg, #28A8A4 38.74%, #00FF85 107.71%);
@@ -40,9 +40,12 @@
     background-clip: text;
     ;
 
-    transition: 5s;
+}
 
-    font-weight: 600;
+@media screen and (min-width: 390px) {
+    .links {
+        font-size: 1.1rem;
+    }
 }
 
 
@@ -64,6 +67,9 @@
 @media screen and (min-width: 1280px) {
     .Container__Apresentacao {
         padding-right: 28rem;
+    }
+
+    .links {
         font-size: 1rem;
     }
 }
