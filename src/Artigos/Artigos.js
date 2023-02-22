@@ -5,10 +5,10 @@ const Artigos = () => {
     return (
         <>
             <section className='Container'>
-                <h2 className='Container__Projeto'>Articles ※⁕⌁</h2>
+                <h2 className='Container__Projeto'>My docs ※⁕⌁</h2>
                 <div className='Container__Projeto1'>
                     <a className='link1' href='https://www.craft.do/s/QIvOehjHFttq0Y'>
-                        <h1 className='titulo__Projeto'>#Promises</h1>
+                        <h1 className='titulo__Projeto'>#Promises #JavaScript</h1>
                         <p className='descricao__projeto Final'>
                             What are promises and how do they work?</p>
                     </a>
@@ -16,7 +16,7 @@ const Artigos = () => {
 
                 <div className='Container__Projeto1'>
                     <a className='link1' href='https://www.craft.do/s/NmDwYTXk39adpl'>
-                        <h1 className='titulo__Projeto'>#CallBack</h1>
+                        <h1 className='titulo__Projeto'>#CallBack #JavaScript</h1>
                         <p className='descricao__projeto Final'>What is callBack and how does it work?</p>
                     </a>
                 </div>
