@@ -13,10 +13,10 @@ const Projeto = () => {
             </div>
 
             <div className='Container__Projeto1'>
-                <a className='link1' href='#'>
+                <a className='link1' href='https://todo-list-beryl-sigma.vercel.app/'>
                     <h1 className='titulo__Projeto'>#todo list</h1>
                     <p className='descricao__projeto'>
-                        Project developed to train react + typescript.</p>
+                        Project developed to train react.</p>
                 </a>
             </div>
         </section>
