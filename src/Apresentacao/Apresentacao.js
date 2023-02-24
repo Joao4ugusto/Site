@@ -13,7 +13,7 @@ const Apresentacao = () => {
                         <li><a className='links' href='https://www.instagram.com/___joao_augusto___/'>⁕ Instagram</a></li>
                         <li><a className='links' href='https://github.com/joao31Oliveira'>⁕ GitHub</a></li>
                         <li><a className='links' href='https://www.linkedin.com/in/jo%C3%A3o-augusto-oliveira-15b018238/'>⁕ Linkedin</a></li>
-                        <li><a className='links' href='#'>⁕ Twitter</a></li>
+                        <li><a className='links' href='https://twitter.com/JooaugustoOliv9'>⁕ Twitter</a></li>
                     </ul>
                 </div>
             </section>
